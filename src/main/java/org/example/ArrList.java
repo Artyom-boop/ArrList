@@ -106,7 +106,7 @@ public class ArrList<E> {
     }
 
     /**
-     * Очищает список, устанавливая его в начальное состояние.
+     * Clears the list, setting it to the initial state.
      */
     public void clear() {
         elementData = new Object[DEFAULT_CAPACITY];
