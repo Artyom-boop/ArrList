@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3368f235-298e-4cc5-b939-c201ac225d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuickSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="3368f235-298e-4cc5-b939-c201ac225d80" name="Changes" comment="add tests QuickSort" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,8 +120,37 @@
       <workItem from="1696531710967" duration="11593000" />
       <workItem from="1696593738676" duration="7961000" />
       <workItem from="1696695220175" duration="17200000" />
-      <workItem from="1696765383461" duration="17352000" />
+      <workItem from="1696765383461" duration="17694000" />
     </task>
+    <task id="LOCAL-00001" summary="added ArrayList isolation">
+      <created>1696804363928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696804363928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add tests ArrayList">
+      <created>1696804485984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696804485984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added QuickSort isolation">
+      <created>1696804543725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696804543725</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add tests QuickSort">
+      <created>1696804608435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696804608435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +166,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added ArrayList isolation" />
+    <MESSAGE value="add tests ArrayList" />
+    <MESSAGE value="added QuickSort isolation" />
+    <MESSAGE value="add tests QuickSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests QuickSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
